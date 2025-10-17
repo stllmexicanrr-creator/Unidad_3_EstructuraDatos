@@ -4,10 +4,9 @@
  * and open the template in the editor.
  */
 package unidad_3;
-
 /**
  *
- * @author 1175126399-32299  // Regla 3 - documentar todas las clases, de quien lo hizo, cuando lo hizo y por que lo hizo
+ * @author (M.Stll)  // Regla 3 - documentar todas las clases, de quien lo hizo, cuando lo hizo y por que lo hizo
  */
 public class Unidad_3 {
 
